@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
 import Confetti from 'react-confetti'
-import { useForm } from 'react-hook-form'
 import Swal from 'sweetalert2'
 import { makeStyles } from '@material-ui/core/styles'
 import { Link, useHistory } from 'react-router-dom'
